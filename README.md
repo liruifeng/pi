@@ -52,4 +52,6 @@ Demo sites with shared deployment:
 * Pi Dialogue ([pialog.org](http://pialog.org) | [pialogue.org](http://pialogue.org))
 * Pi Demo ([pi-demo.org](http://pi-demo.org))
 * Xoops/Pi ([xoopsengine.org](http://demo.xoopsengine.org))
-update 2013-8-21
+
+
+__Updated on August 21st, 2013__
